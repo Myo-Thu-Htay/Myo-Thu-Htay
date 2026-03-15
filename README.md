@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter XAUUSD SIGNAL APP 
+Currently doing Flutter XAUUSD SIGNAL APP 
 
 
 ## 🌐 Socials:
